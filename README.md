@@ -1,4 +1,4 @@
-# Ad Lead Generator
+#  Ad Lead Generator
 This project was written in TypeScript utilizing Express.js, Node.js, and React. TypeScript helps prevent easy to avoid
 issues common in frontend JavaScript development. Being able to write common interfaces and function definitions made
 it much easier to work with data, hammering down types being passed between different functions. The source mapping 
